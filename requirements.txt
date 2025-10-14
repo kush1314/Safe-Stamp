@@ -1,0 +1,9 @@
+Flask
+gunicorn
+pillow
+numpy
+opencv-python
+requests
+torch
+transformers
+huggingface-hub
