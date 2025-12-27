@@ -1,6 +1,6 @@
-# SafeStamp: https://ai-watermark-detector.onrender.com/
+# SafeStamp: 
 
-SafeStamp is an open-source AI safety and education platform that embeds invisible, cryptographically verifiable watermarks into AI-generated images using Least Significant Bit (LSB) watermarking. Instead of guessing whether an image is real or fake, SafeStamp enables **100% verifiable provenance** by tying each image directly to its original prompt. The project is designed to educate users, demonstrate the limits of AI classifiers, and promote transparent, scalable solutions to AI misinformation.
+SafeStamp is an open-source AI safety and education platform that embeds invisible, cryptographically verifiable watermarks into AI-generated images using Least Significant Bit (LSB) watermarking. Instead of guessing whether an image is real or fake, SafeStamp enables **100% verifiable provenance** by tying each image directly to its original prompt. The project is designed to educate users, demonstrate the limits of AI classifiers, and promote transparent, scalable solutions to AI misinformation. Here is the link: https://ai-watermark-detector.onrender.com/
 
 ---
 
